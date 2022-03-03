@@ -1,0 +1,36 @@
+{
+  "level": "Non Credit",
+  "topics": [
+    [
+      "Fine Arts",
+      "Media Studies",
+      "Digital Media"
+    ]
+  ],
+  "instructors": {
+    "content": [
+      "9ef7454a-20d7-070b-9bd5-eb40a8153d69"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "ee7d48e1-31e6-4cf2-afbb-88733a1fa071",
+    "website": "authoring-test-demo-1027-cathleen"
+  },
+  "course_title": "Cathleen Demo Course",
+  "course_description": "Here's a course description!",
+  "department_numbers": [
+    "CMS-W"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "TEST.101",
+  "course_image_thumbnail": {
+    "content": "",
+    "website": "authoring-test-demo-1027-cathleen"
+  },
+  "learning_resource_types": [
+    "Activity Assignments",
+    "Written Assignments"
+  ],
+  "site_uid": "9fbea47b-0a73-4f71-b802-d30920e02d1c"
+}
